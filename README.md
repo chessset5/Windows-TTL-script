@@ -1,3 +1,5 @@
+original script found here: https://github.com/szybnev/TTL-Changer
+
 <h1 align=center>TTL-Changer</h1>
 <br>
 <img src="/cmd.jpg">
