@@ -19,4 +19,4 @@
 <h2>Why would you change the TTL?</h2>
 <p>By changing the TTL you can bypass the restrictions of mobile operators to distribute mobile Internet.</p>
 <br>
-<h2>To change TTL you only need to execute of one bat files. No need to restart of logout!</h2>
+<h2>To change TTL you only need to execute of one bat files. No need to restart or logout!</h2>
